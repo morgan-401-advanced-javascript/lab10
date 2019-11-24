@@ -21,8 +21,7 @@
 #### Tests
 * How do you run tests?
 npm test
-* What assertions were made?
-* What assertions need to be / should be made?
+
 #### Questions
 * What are the pros and cons of setting res.cookie?
  They can only be created and viewed by the website operator
